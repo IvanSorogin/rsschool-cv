@@ -1,20 +1,20 @@
 rsschool-cv
-=============
+==========
 Ivan Sorogin
-=============
+==========
 Contacts
-=============
+==========
 * Location: Samara, Russia
 * Phone +846 219 10 32
 * Email: sorogin123@gmail.com
 * GitHub: (https://github.com/IvanSorogin)
 
 About Me
-==============
+==========
 I am a disciplined and efficient employee, I dream of joining the team developing complex and interesting projects.
 
 Skills
-===============
+==========
 * HTML
 * CSS
 * Java Script
